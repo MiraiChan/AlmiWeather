@@ -9,5 +9,5 @@ import SwiftUI
 
 enum Colors {
 	static let backgroundColor = Color("mainColor")
-	static let buttonColor = Color("secondaryColor")
+	static let buttonColor = Color("secondColor")
 }
